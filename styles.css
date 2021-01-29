@@ -19,7 +19,12 @@
 .flower {
   background-image: url('sketch1611443574051.png');
   background-repeat: no-repeat;
-  background-size: 480px 700px;
+  /* background-size: 480px 700px; */
+  background-size: 320px 480px;
+  /* -webkit-background-size: 480px 700px;;
+  -moz-background-size: 480px 700px;;
+  -o-background-size: 480px 700px;; */
+  /* background-attachment: fixed; */
   background-position: right;
 }
 
