@@ -12,6 +12,7 @@
   background-size: 540px 830px;
   background-position: right;
   background-attachment: fixed;
+  position: fixed;
 }
 
 h1 {
