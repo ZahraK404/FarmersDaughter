@@ -11,7 +11,7 @@
   background-repeat: no-repeat;
   background-size: 540px 830px;
   background-position: right;
-  background-attachment: fixed;
+  background-attachment: scroll;
   position: static;
   transform: translateZ(0);
   -webkit-transform: translateZ(0);
