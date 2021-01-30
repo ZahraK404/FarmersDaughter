@@ -1,0 +1,62 @@
+.intro {
+  color: white;
+  text-align: center;
+  size: 40%;
+  height: 900px;
+  /* width: 100%; */
+}
+
+.flower {
+  background-image: url('sketch1611443574051.png');
+  background-repeat: no-repeat;
+  background-size: 500px 790px;
+  background-position: right;
+}
+
+h1 {
+  margin: 0;
+  font-family: Parisienne, cursive;
+  font-size: 6em;
+  text-shadow: 2px 2px #39ff14;
+  /* background: linear-gradient(to right, #b19cd9 40%, #000000 100%); */
+  background: linear-gradient(to right, #C76B6F 0%, #000000 100%);
+  padding: 5%;
+}
+
+h2 {
+  margin: 0;
+  padding: 2.5%;
+  font-family: Cinzel, serif;
+  font-size: 3em;
+}
+
+h3 {
+  /* color: #C76B6F; */
+  padding: 1%;
+  font-family: Alex Brush;
+  font-size: 3em;
+  margin: 0;
+  text-align: center;
+}
+
+.inst {
+  width: 80px;
+  margin-bottom: 9px;
+  text-decoration: none;
+  margin-left: 41%;
+
+}
+
+.mail {
+  width: 100px;
+  /* margin-left: 30px; */
+  margin-top: 5px;
+
+
+}
+
+.copyright {
+  color: #40514E;
+  text-align: center;
+  font-size: 1.5rem;
+}
