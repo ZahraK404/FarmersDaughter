@@ -2,15 +2,16 @@
   color: white;
   text-align: center;
   size: 40%;
-  height: 900px;
+  height: 1600px;
   /* width: 100%; */
 }
 
 .flower {
   background-image: url('sketch1611443574051.png');
   background-repeat: no-repeat;
-  background-size: 500px 790px;
+  background-size: 540px 830px;
   background-position: right;
+  background-attachment: fixed;
 }
 
 h1 {
@@ -20,7 +21,7 @@ h1 {
   text-shadow: 2px 2px #39ff14;
   /* background: linear-gradient(to right, #b19cd9 40%, #000000 100%); */
   background: linear-gradient(to right, #C76B6F 0%, #000000 100%);
-  padding: 5%;
+  padding: 6%;
 }
 
 h2 {
@@ -58,5 +59,5 @@ h3 {
 .copyright {
   color: #40514E;
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
 }
